@@ -1,1 +1,2 @@
 # tornado-predictor
+This predictor is a data science project which will enable the user to predict the scale of a tornado in a specified area, based on several factors from around the globe and data from previous years.
