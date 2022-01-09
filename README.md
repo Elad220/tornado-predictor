@@ -1,4 +1,5 @@
 # Tornado Predictor - Machine Learning
+#### By Elad Asaf and Lidar Baruch
 ## Project Goal
 We decided to research the tornado scale in the US and Europe based on data from 1990-2021.
 After data analysis and understanding the correlation between our data features we built a machine learning model which predicts the scale of the tornado based on previous data of length, width, and location (longitude and latitude).
